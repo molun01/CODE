@@ -1,0 +1,30 @@
+h2 {
+  color: Red;
+}
+
+h3 {
+  color: Red;
+}
+
+p {
+  color: Green;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 1em;
+  /*PC*/
+  font-style: italic;
+}
+
+.blue-text {
+  color: Blue;
+}
+
+.green-text {
+  color: Green;
+}
+
+/*
+body {
+  font-size: 40pt;
+}
+*/
